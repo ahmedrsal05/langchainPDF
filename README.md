@@ -1,1 +1,1 @@
-# langchainPDF
+# rag-tutorial-v2
